@@ -10,5 +10,6 @@ To install this module:
 - compile the solution
 - copy the DLL into your sitecore BIN folder
 - copy config files into App_Config folder
-- 
+
+
 Call the endpoint: https://<insert-your-domain>/sitecore/api/layoutservice/get?site=website&lang=en&apiKey=xxx&path=/
