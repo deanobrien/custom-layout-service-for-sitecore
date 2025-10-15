@@ -13,3 +13,5 @@ To install this module:
 
 
 Call the endpoint: https://<insert-your-domain>/sitecore/api/layoutservice/get?site=website&lang=en&apiKey=xxx&path=/
+
+> If you try this module and find it helpful or have any issues - it would be nice to know via LinkedIn or Slack!
